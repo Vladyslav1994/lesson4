@@ -1,0 +1,33 @@
+#main1{
+    width: 800px;
+    height: 800px;
+    background: #ab9c09;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.heig200{
+    height: 200px;
+}
+.heig300{
+    height: 300px;
+}
+.widgetsall{
+    width: 600px;
+    background: #6f80dc;
+    margin: 5px;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 100px;
+}
+
+.bwidgets{
+    width: 200px;
+    height: 200px;
+    background: #6f80dc;
+    margin: 5px;
+    padding-top: 100px;
+    text-align: center;
+    box-sizing: border-box;
+}
