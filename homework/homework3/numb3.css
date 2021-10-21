@@ -13,11 +13,12 @@
     height: 300px;
 }
 .widgetsall{
-    width: 600px;
+    width: 620px;
     background: #6f80dc;
     margin: 5px;
     justify-content: center;
     text-align: center;
+    border: 2px solid black;
     box-sizing: border-box;
     padding-top: 100px;
 }
@@ -29,5 +30,6 @@
     margin: 5px;
     padding-top: 100px;
     text-align: center;
+    border: 2px solid black;
     box-sizing: border-box;
 }
