@@ -1,0 +1,32 @@
+.last{
+    width: 800px;
+    height: 800px;
+    background: #f39302;
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    width: 800px;
+    height: 100px;
+    background: #14249b;
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding-top: 40px;
+    color: #fcfcfc;
+}
+.mainwidth4{
+    flex-grow: 4;
+}
+.mainwidth1{
+    flex-grow: 1;
+}
+.aside{
+    height: 500px;
+    background: rgba(11, 77, 154, 0.8);
+    text-align: center;
+    border: 2px solid black;
+    box-sizing: border-box;
+    padding-top: 250px;
+    color: #fcfcfc;
+}
