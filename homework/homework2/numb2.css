@@ -1,0 +1,33 @@
+.main{
+    width: 350px;
+    height: 550px;
+    background: #ea8918;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    margin: 5px;
+}
+.w300{
+    width: 300px;
+}
+.w80{
+    width: 80px;
+}
+.w200{
+    width: 200px;
+}
+.h100{
+    height: 100px;
+}
+.h215{
+    height: 215px;
+}
+.backgr{
+    background: aquamarine;
+}
+.bor{
+    border: 2px solid black;
+}
+.marg{
+    margin: 10px;
+}
