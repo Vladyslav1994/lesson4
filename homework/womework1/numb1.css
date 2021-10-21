@@ -1,0 +1,25 @@
+.main{
+    background: #090000;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.w400{
+    width: 400px;
+}
+.w300{
+    width: 260px;
+}
+.w100{
+    width: 100px;
+}
+.h130{
+    height: 130px;
+}
+.bgraund{
+    background: yellowgreen;
+}
+.marg{
+    margin: 10px;
+}
